@@ -174,7 +174,7 @@ module.exports = {
         plugins,
 
         new HtmlWebpackPlugin({
-          title: 'Parity',
+          title: 'Favored',
           filename: 'index.html',
           template: './index.parity.ejs',
           favicon: FAVICON,
